@@ -1,0 +1,4 @@
+2026-04-08 10:00:01 ERROR Database connection failed
+2026-04-08 10:00:05 INFO Retrying connection
+2026-04-08 10:00:10 ERROR Timeout occurred
+2026-04-08 10:00:15 WARNING High memory usage
