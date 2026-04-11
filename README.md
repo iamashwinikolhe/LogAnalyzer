@@ -1,4 +1,4 @@
-# AI Log Analyzer (Local LLM)
+# AI Payment Log Analyzer (Local LLM)
 
 ## Features
 - Chunking for large logs
