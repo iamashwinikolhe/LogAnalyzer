@@ -1,0 +1,10 @@
+[2024-01-15 10:23:45] INFO: Application started successfully
+[2024-01-15 10:23:46] INFO: Database connection established
+[2024-01-15 10:23:50] WARNING: Cache miss for user_id=12345, querying database
+[2024-01-15 10:24:12] ERROR: Failed to process payment for order_id=789, timeout after 30s
+[2024-01-15 10:24:13] INFO: Retrying payment processing attempt 1 of 3
+[2024-01-15 10:24:45] ERROR: Payment service unreachable, error code: 503
+[2024-01-15 10:24:46] WARNING: Falling back to manual payment review queue
+[2024-01-15 10:25:00] INFO: Email notification sent to admin@company.com
+[2024-01-15 10:25:15] INFO: API response time: 1250ms for endpoint /api/users/12345
+[2024-01-15 10:25:30] DEBUG: Memory usage: 512MB, CPU: 45%
